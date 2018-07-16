@@ -1,0 +1,7 @@
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\bin\Debug\SumOfN.exe.config
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\bin\Debug\SumOfN.exe
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\bin\Debug\SumOfN.pdb
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\obj\Debug\SumOfN.csprojAssemblyReference.cache
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\obj\Debug\SumOfN.csproj.CoreCompileInputs.cache
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\obj\Debug\SumOfN.exe
+C:\Users\NishaR01\source\repos\SumOfN\SumOfN\obj\Debug\SumOfN.pdb
